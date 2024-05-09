@@ -1,0 +1,77 @@
+.tour
+{
+    padding: 3rem;
+    background-color: black;
+    color: #fff;
+    height: 80vh;
+    width: 100%;
+    
+}
+
+.isaac
+{
+    max-width: 1200px;
+    margin: auto;
+    
+}
+
+.tituloTuor, .subtituloTuor
+{
+    text-align: center;
+}
+
+.tabelaTuor
+{
+    background-color: #fff;
+    color: black;
+    margin: 1rem;
+    
+}
+
+.linhaTuor1, .linhaTuor2, .linhaTuor3
+{
+    padding: 1rem;
+    border-bottom: 0.5px solid #6d6a6a;
+}
+
+.imagensTuor
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.cardtuor1
+{
+    background-color: #fff;
+    color: black;
+    height: 420px;
+    width: 300px;
+}
+
+.cardtourimagem
+{
+    background-image: url(../imagens/paisagem.jpg);
+    height: 50%;
+    background-size: cover;
+}
+
+.cartourtexto
+{
+    padding: 1rem;
+    font-size: 20px;
+}
+
+iframe
+{
+    width: 100%;
+}
+
+footer
+{
+    background-color: black;
+    color: #fff;
+    height: 100px;
+    text-align: center;
+    padding: 50px;
+}

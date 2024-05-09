@@ -1,0 +1,48 @@
+.conteudo
+{
+    max-width: 1200px;
+    margin: auto;
+    padding: 3rem;
+}
+
+.conteudo > div
+{
+    margin: 2rem;
+
+
+}
+
+.titulo, .subtitulo
+{
+    text-align: center;
+}
+
+.conteudo .texto
+{
+    font-size: 1.2rem;
+    text-align: justify;
+}
+
+.imagens
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card1, .card2, .card3
+{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-image: url(../imagens/paisagem.jpg);
+    border-radius: 100%;
+    background-size: cover;
+}
+
+.card1
+{
+    background-image: url(../imagens/paisagem.jpg);
+    background-size: cover;
+}
+
